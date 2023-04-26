@@ -1,2 +1,2 @@
-# LucilleBeta.github.io
+# LoftyClient.github.io
 En Güncel Craftrise Client
